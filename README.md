@@ -1,4 +1,4 @@
-# SignalAI — AI-Powered Wireless Optimization System
+# AI-Powered Wireless Optimization System
 
 A machine learning-based wireless optimization platform using Python, TensorFlow, and BLE telemetry data to predict signal degradation and dynamically adjust connection parameters.
 
